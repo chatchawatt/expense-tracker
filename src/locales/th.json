@@ -1,0 +1,21 @@
+{
+    "authen_required": "ต้องการการยืนยันตัวตน",
+    "no_token" : "ไม่มีการส่ง token มาด้วย",
+    "exp_token": "Token ผิดหรือหมดอายุ",
+    "no_account": "ไม่พบบัญชี",
+    "unauthorize": "คุณไม่ได้รับอนุญาติให้ลบ",
+    "del_account": "บัญชีถูกลบ",
+    "expense_linked": "ไม่สามารถลบบัญชีที่ยังมีรายการรายจ่าย",
+    "account_linked": "ไม่สามารถลบผู้ใช้งานที่ยังมีบัญชี",
+    "no_expense": "ไม่พบการใช้จ่าย",
+    "no_user": "ไม่พบผูใช้งาน",
+    "exist_user": "มีผู้ใช้งานที่ใช้ข้อมูลนี้แล้ว",
+    "invalid_user_data" : "ข้อมูลผู้ใช้งานผิดพลาด",
+    "del_user" : "ผู้ใช้งานถูกลบ",
+    "del_expense": "การใช้จ่ายถูกลบ",
+    "no_expense_type" : "ไม่พบประเภทการใช้จ่าย",
+    "not_enough_fund": "มีเงินไม่พอในบัญชีดังกล่าว",
+    "del_expense_type" : "ประเภทการใช้จ่ายถูกลบ",
+    "invalid_user_format": "userId ผิด format"
+  }
+  

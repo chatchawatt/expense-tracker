@@ -1,0 +1,22 @@
+{
+	"authen_required": "Authentication required",
+	"no_token": "No token provided",
+	"exp_token": "Invalid or expired token",
+	"no_account": "Account not found",
+	"unauthorize": "You are not authorize to delete",
+	"del_account": "Account deleted",
+	"expense_linked": "Can not delete account with linked expenses",
+	"account_linked": "Can not delete user with linked account",
+	"no_expense": "Expense not found",
+	"no_user": "User not found",
+	"exist_user": "User already exists",
+	"invalid_user_data": "Invalid user data",
+	"del_user": "User deleted",
+	"del_expense": "Expense deleted",
+	"no_expense_type": "Expense type not found",
+	"not_enough_fund": "Insufficient funds in the account",
+	"del_expense_type": "Expense type deleted",
+	"invalid_user_format": "Invalid userId format",
+	"invalid_expense_type_format": "invalid_expense_type_format",
+	"invalid_account_format": "invalid_account_format"
+}
