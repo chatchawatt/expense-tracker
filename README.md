@@ -21,7 +21,7 @@ An API built with Node.js, Express, and MongoDB to manage personal expenses. Thi
 ## Installation
 
 Clone the repository
-git clone https://github.com/your-repo/expense-tracker.git
+git clone https://github.com/chatchawatt/expense-tracker.git
 cd expense-tracker
 
 ## Install dependencies
@@ -161,4 +161,9 @@ npm run dev
     Headers:
     Authorization: JWT_TOKEN
 
+# Multilingual Support
+
+The API supports English and Thai. Use the lang query parameter to specify the language:
+eg.
+GET /api/accounts?lang=th
 
